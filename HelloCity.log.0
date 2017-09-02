@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086328</millis>
+  <sequence>0</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Test getGreetings with language=en, city=New York, time=00:00</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086347</millis>
+  <sequence>1</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086351</millis>
+  <sequence>2</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Test getGreetings with language=en, city=New York, time=06:00</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086352</millis>
+  <sequence>3</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086354</millis>
+  <sequence>4</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Test getGreetings with language=en, city=New York, time=09:00</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086356</millis>
+  <sequence>5</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086357</millis>
+  <sequence>6</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Test getGreetings with language=en, city=New York, time=19:00</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086359</millis>
+  <sequence>7</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086360</millis>
+  <sequence>8</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Test getGreetings with language=en, city=New York, time=23:00</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086362</millis>
+  <sequence>9</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086364</millis>
+  <sequence>10</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Test getGreetings with language=ru, city=New York, time=00:00</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086367</millis>
+  <sequence>11</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086369</millis>
+  <sequence>12</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Test getGreetings with language=ru, city=New York, time=06:00</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086373</millis>
+  <sequence>13</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086375</millis>
+  <sequence>14</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Test getGreetings with language=ru, city=New York, time=09:00</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086379</millis>
+  <sequence>15</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086380</millis>
+  <sequence>16</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Test getGreetings with language=ru, city=New York, time=19:00</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086382</millis>
+  <sequence>17</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086383</millis>
+  <sequence>18</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Test getGreetings with language=ru, city=New York, time=23:00</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086385</millis>
+  <sequence>19</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086387</millis>
+  <sequence>20</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Test getGreetings with language=ua, city=New York, time=00:00</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086390</millis>
+  <sequence>21</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086393</millis>
+  <sequence>22</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Test getGreetings with language=ua, city=New York, time=06:00</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086394</millis>
+  <sequence>23</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086395</millis>
+  <sequence>24</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Test getGreetings with language=ua, city=New York, time=09:00</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086396</millis>
+  <sequence>25</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086397</millis>
+  <sequence>26</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Test getGreetings with language=ua, city=New York, time=19:00</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086398</millis>
+  <sequence>27</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086399</millis>
+  <sequence>28</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Test getGreetings with language=ua, city=New York, time=23:00</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086401</millis>
+  <sequence>29</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086401</millis>
+  <sequence>30</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Test getGreetings with language=en, city=Moscow, time=00:00</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086403</millis>
+  <sequence>31</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086409</millis>
+  <sequence>32</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Test getGreetings with language=en, city=Kiev, time=00:00</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086410</millis>
+  <sequence>33</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testGetGreetings</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086417</millis>
+  <sequence>34</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Test main with args = null</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086434</millis>
+  <sequence>35</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086437</millis>
+  <sequence>36</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Test main with args = []</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086439</millis>
+  <sequence>37</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086440</millis>
+  <sequence>38</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Test main with args = [ ]</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086441</millis>
+  <sequence>39</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086442</millis>
+  <sequence>40</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Test main with args = [Any city]</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086443</millis>
+  <sequence>41</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>WARNING</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>This test is correct only if the program under test and the test program are in the same locale</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086446</millis>
+  <sequence>42</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086447</millis>
+  <sequence>43</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Test main with args = [Any city, GMT]</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086448</millis>
+  <sequence>44</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>WARNING</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>This test is correct only if the program under test and the test program are in the same locale</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086449</millis>
+  <sequence>45</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086452</millis>
+  <sequence>46</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Test main with args = [Any city, America/New_York]</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086452</millis>
+  <sequence>47</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>WARNING</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>This test is correct only if the program under test and the test program are in the same locale</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086454</millis>
+  <sequence>48</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086455</millis>
+  <sequence>49</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Test main with args = [Any city, ABRACADABRA]</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086456</millis>
+  <sequence>50</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>WARNING</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>This test is correct only if the program under test and the test program are in the same locale</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086499</millis>
+  <sequence>51</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086501</millis>
+  <sequence>52</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Test main with args = [New York]</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086504</millis>
+  <sequence>53</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>WARNING</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>This test is correct only if the program under test and the test program are in the same locale</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086505</millis>
+  <sequence>54</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086509</millis>
+  <sequence>55</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Test main with args = [New York, GMT]</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086510</millis>
+  <sequence>56</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>WARNING</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>This test is correct only if the program under test and the test program are in the same locale</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086511</millis>
+  <sequence>57</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086511</millis>
+  <sequence>58</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Test main with args = [New York, America/New_York]</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086513</millis>
+  <sequence>59</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>WARNING</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>This test is correct only if the program under test and the test program are in the same locale</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086517</millis>
+  <sequence>60</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086519</millis>
+  <sequence>61</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Test main with args = [New York, ABRACADABRA]</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086519</millis>
+  <sequence>62</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>WARNING</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>This test is correct only if the program under test and the test program are in the same locale</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086537</millis>
+  <sequence>63</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086539</millis>
+  <sequence>64</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Test main with args = [New York, GMT, Anything else]</message>
+</record>
+<record>
+  <date>2017-09-02T15:41:26</date>
+  <millis>1504356086540</millis>
+  <sequence>65</sequence>
+  <logger>com.ftemotheos.tasks.secret_task1</logger>
+  <level>INFO</level>
+  <class>com.ftemotheos.tasks.secret_task1.HelloCityTest</class>
+  <method>testMain</method>
+  <thread>1</thread>
+  <message>Passed!</message>
+</record>
+</log>
