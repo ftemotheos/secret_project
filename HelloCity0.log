@@ -1,0 +1,124 @@
+сен 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testEnKiev0
+INFO: Test getGreetings with language=en, city=Kiev, time=00:00
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testEnKiev0
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstAnySecondAmericaNewYork
+INFO: Test main with args[] = [Any city, America/New_York]
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstAnySecondAmericaNewYork
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstNewYorkSecondGMT
+INFO: Test main with args[] = [New York, GMT]
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstNewYorkSecondGMT
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstAnyCitySecondNull
+INFO: Test main with args[] = [Any city, null]
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstAnyCitySecondNull
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstZeroLength
+INFO: Test main with args[] = [""]
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstZeroLength
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstNewYork
+INFO: Test main with args[] = [New York]
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstNewYork
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testRuNewYork0
+INFO: Test getGreetings with language=ru, city=New York, time=00:00
+сен 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testRuNewYork0
+INFO: Passed!
+сен 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testRuNewYork6
+INFO: Test getGreetings with language=ru, city=New York, time=06:00
+сен 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testRuNewYork6
+INFO: Passed!
+сен 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testRuNewYork9
+INFO: Test getGreetings with language=ru, city=New York, time=09:00
+сен 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testRuNewYork9
+INFO: Passed!
+сен 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testEmpty
+INFO: Test main with args[] = []
+сен 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testEmpty
+INFO: Passed!
+сен 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testNull
+INFO: Test main with args[] = null
+сен 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testNull
+INFO: Passed!
+сен 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testUaNewYork19
+INFO: Test getGreetings with language=ua, city=New York, time=19:00
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testUaNewYork19
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testUaNewYork23
+INFO: Test getGreetings with language=ua, city=New York, time=23:00
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testUaNewYork23
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testEnNewYork19
+INFO: Test getGreetings with language=en, city=New York, time=19:00
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testEnNewYork19
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testEnNewYork23
+INFO: Test getGreetings with language=en, city=New York, time=23:00
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testEnNewYork23
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstNewYorkSecondGMTThirdAny
+INFO: Test main with args[] = [New York, GMT, Anything else]
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstNewYorkSecondGMTThirdAny
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testEnMoscow0
+INFO: Test getGreetings with language=en, city=Moscow, time=00:00
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testEnMoscow0
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testUaNewYork0
+INFO: Test getGreetings with language=ua, city=New York, time=00:00
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testUaNewYork0
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testUaNewYork6
+INFO: Test getGreetings with language=ua, city=New York, time=06:00
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testUaNewYork6
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testUaNewYork9
+INFO: Test getGreetings with language=ua, city=New York, time=09:00
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testUaNewYork9
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstAny
+INFO: Test main with args[] = [Any city]
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstAny
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testRuNewYork19
+INFO: Test getGreetings with language=ru, city=New York, time=19:00
+сен 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testRuNewYork19
+INFO: Passed!
+сен 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testRuNewYork23
+INFO: Test getGreetings with language=ru, city=New York, time=23:00
+сен 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testRuNewYork23
+INFO: Passed!
+сен 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstNewYorkSecondABRACADABRA
+INFO: Test main with args[] = [New York, ABRACADABRA]
+сен 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstNewYorkSecondABRACADABRA
+INFO: Passed!
+сен 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstNull
+INFO: Test main with args[] = [null]
+сен 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstNull
+INFO: Passed!
+сен 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testEnNewYork0
+INFO: Test getGreetings with language=en, city=New York, time=00:00
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testEnNewYork0
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testEnNewYork6
+INFO: Test getGreetings with language=en, city=New York, time=06:00
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testEnNewYork6
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testEnNewYork9
+INFO: Test getGreetings with language=en, city=New York, time=09:00
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testEnNewYork9
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstNewYorkSecondAmericaNewYork
+INFO: Test main with args[] = [New York, America/New_York]
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstNewYorkSecondAmericaNewYork
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstAnySecondGMT
+INFO: Test main with args[] = [Any city, GMT]
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstAnySecondGMT
+INFO: Passed!
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstAnySecondABRACADABRA
+INFO: Test main with args[] = [Any city, ABRACADABRA]
+Sep 07, 2017 4:19:11 PM com.ftemotheos.tasks.secret_task1.HelloCityTest testFirstAnySecondABRACADABRA
+INFO: Passed!
